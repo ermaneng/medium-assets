@@ -1,9 +1,6 @@
 {
     "/assets/remote1":{
         "target": "http://localhost:4201",
-        "secure": false,
-        "pathRewrite": {
-            "^/assets/remote1": "assets"
-        }
+        "secure": false
     }
 }
